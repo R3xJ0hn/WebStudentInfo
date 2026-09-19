@@ -196,3 +196,15 @@ tbody tr:hover {
 .textbox input:valid+ .txtbox-label::after{
     transform: translateX(0%);
 }
+
+.display-none {
+    display: none;
+}
+
+.default-text .txtbox-label{
+    border-bottom: 0px;
+}
+
+.placeholder span {
+    color: #8f8f8f;
+}
